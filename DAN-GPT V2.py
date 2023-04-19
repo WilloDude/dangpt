@@ -1,7 +1,7 @@
 import openai
 import time
 
-openai.api_key = "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"
+openai.api_key = "API-KEY-HERE-PLS"
 
 def generate_response(prompt, engine, temperature, max_tokens):
     response = openai.Completion.create(
