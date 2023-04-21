@@ -1,5 +1,6 @@
-# dangpt
-DAN Mode Enablrf
+# dan-gpt zeta-gpt
+DAN Mode Enabled
+
 
 For version V2 and lower.
 
